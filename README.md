@@ -1,2 +1,3 @@
 # hello-world
-First git project 
+
+Finally learning how to make gits. 
